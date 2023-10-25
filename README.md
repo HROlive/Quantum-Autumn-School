@@ -9,9 +9,9 @@
 ## Description
 
 Recent developments in quantum technology are bringing the world closer to a new technological revolution – the advent of usable quantum computers able to provide enormous acceleration to important computational tasks. In the coming years, quantum computing is expected to have a significant impact on many areas of research that can utilize computational modeling. 
-Indeed, significant efforts and investments are currently underway in Europe to `bolster skills and capacity within quantum computing <https://enccs.se/news/2023/06/european-hpc-quantum-computing-infrastructure/>`__.
+Indeed, significant efforts and investments are currently underway in Europe to [bolster skills and capacity within quantum computing](https://enccs.se/news/2023/06/european-hpc-quantum-computing-infrastructure/).
 
-ENCCS is again joining forces with the `Wallenberg Centre of Quantum Technologies (WACQT) <https://www.chalmers.se/en/centres/wacqt/>`__ and the `Nordic/Baltic NordIQuEst <https://nordiquest.net/>`__ project to deliver a three-day autumn school covering the fundamentals of quantum computing. The school will also be visited by and contributed to by `Algorithmiq <https://algorithmiq.fi/>`__, a Finnish startup which aims to revolutionize life sciences by exploiting the potential of quantum computing to solve currently inaccessible problems.
+ENCCS is again joining forces with the [Wallenberg Centre of Quantum Technologies (WACQT)](https://www.chalmers.se/en/centres/wacqt/) and the [Nordic/Baltic NordIQuEst](https://nordiquest.net/) project to deliver a three-day autumn school covering the fundamentals of quantum computing. The school will also be visited by and contributed to by [Algorithmiq](https://algorithmiq.fi/), a Finnish startup which aims to revolutionize life sciences by exploiting the potential of quantum computing to solve currently inaccessible problems.
 
 WACQT is a national research programme, coordinated by Chalmers, that aims to take Swedish research and industry to the forefront of quantum technology. The main project of WACQT is to develop a high-end quantum computer that can solve problems far beyond the reach of the best conventional supercomputers.
 
