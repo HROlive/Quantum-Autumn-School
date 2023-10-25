@@ -1,4 +1,4 @@
-![Course](images/banner.png)
+![Course](images/banner.jpg)
 
 ## Table of Contents
 1. [Description](#description)
