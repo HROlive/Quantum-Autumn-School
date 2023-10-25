@@ -19,12 +19,12 @@ NordΙQuEst brings together a consortium of seven partners from five Nordic and 
 
 The school will cover: 
 
-- Introduction to key concepts: quantum states, qubits, quantum algorithms;
-- Overview of the main QC hardware approaches; 
-- Overview of the QC software stack;
-- Integration of QC with classical computing: hybrid classical/quantum algorithms and HPC-QC systems;
-- QC programming in high-level languages for use cases in optimization, finance, life science, and quantum chemistry;
-- Morning lectures will be combined with afternoon hands-on sessions where participants learn to use high-level QC programming languages.
+> - Introduction to key concepts: quantum states, qubits, quantum algorithms;
+> - Overview of the main QC hardware approaches; 
+> - Overview of the QC software stack;
+> - Integration of QC with classical computing: hybrid classical/quantum algorithms and HPC-QC systems;
+> - QC programming in high-level languages for use cases in optimization, finance, life science, and quantum chemistry;
+> - Morning lectures will be combined with afternoon hands-on sessions where participants learn to use high-level QC programming languages.
 
 Participants in the school will be given direct access to Helmi, a 5-qubit quantum computer using superconducting qubits that is connected to LUMI, the most powerful supercomputer in Europe.
 
