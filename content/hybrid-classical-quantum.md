@@ -1,3 +1,6 @@
 # Hybrid Classical/Quantum Algorithms
 
-## Applications: Introduction to use cases for optimisation: QAOA
+## Using quantum computers to solve combinatorial optimization problems
+
+{download}`Slides <slides/QAS2023-5.pdf>`
+
