@@ -64,4 +64,4 @@ All necessary information, links, and content for the course can be found on the
 
 The certificate for the course can be found below:
 
-- ["Quantum Autumn School" - ENCCS, Wallenberg Centre of Quantum Technologies (WACQT), Nordic/Baltic NordIQuEst]() (Issued On: November 2023)
+- ["Quantum Autumn School" - ENCCS, Wallenberg Centre of Quantum Technologies (WACQT), Nordic/Baltic NordIQuEst](https://github.com/HROlive/Quantum-Autumn-School/blob/main/images/certificate.pdf) (Issued On: October 2023)
